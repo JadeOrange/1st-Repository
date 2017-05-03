@@ -7,5 +7,7 @@ int main()
 	cout << "Hello world\n";
 	cout << "Hello git\n";
 	cout << "Good bye git\n";
+	int num = 1;
+	cout << "branch - " << num << endl;
 	return 0;
 }
